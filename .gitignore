@@ -41,7 +41,8 @@ qtcreator-*
 /planning/cfg
 /planning/docs
 /planning/src
-
+.claude/plans/private/
+.vscode/
 *~
 
 # Emacs
