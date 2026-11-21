@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>gritty</name>
+  <version>0.1.0</version>
+  <description>Header-only C++20 2D grid map library</description>
+  <maintainer email="mukund199823@gmail.com">Mukund Bala</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>cmake</buildtool_depend>
+  <test_depend>gtest</test_depend>
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
